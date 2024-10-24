@@ -13903,5 +13903,35 @@
         "Type":"Unique",
         "Cleaned Restaurant Name":"\u897f\u5854\u8001\u592a\u592a\u70e4\u8089",
         "Person":"Evan"
+    },
+    {
+        "Restaurant Name":"The Lobby Lounge, Regent Hong Kong",
+        "Code":"R12549",
+        "Opportunities":"High",
+        "Location":"Lobby, Regent Hong Kong, 18 Salisbury Road",
+        "District":"Tsim Sha Tsui",
+        "Cuisines":"Western,Coffee Shop",
+        "Price Range":"$201-400",
+        "Timestamp":"2024-10-04 10:16:18",
+        "Longitude":114.1739512,
+        "Latitude":22.2933788,
+        "Type":"Unique",
+        "Cleaned Restaurant Name":"The Lobby Lounge, Regent Hong Kong",
+        "Person":"Evan"
+    },
+    {
+        "Restaurant Name":"Nobu",
+        "Code":"R9757",
+        "Opportunities":"High",
+        "Location":"2\/F, Regent Hong Kong, 18 Salisbury Road",
+        "District":"Tsim Sha Tsui",
+        "Cuisines":"Japanese,Hotel Restaurant",
+        "Price Range":"Above $801",
+        "Timestamp":"2024-10-04 10:16:18",
+        "Longitude":114.1739346,
+        "Latitude":22.2934362,
+        "Type":"Unique",
+        "Cleaned Restaurant Name":"Nobu",
+        "Person":"Evan"
     }
 ]
