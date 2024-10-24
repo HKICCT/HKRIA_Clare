@@ -13963,5 +13963,50 @@
         "Type":"Unique",
         "Cleaned Restaurant Name":"Dood Bottega Gelateria",
         "Person":"Evan"
+    },
+    {
+        "Restaurant Name":"Qura Bar",
+        "Code":"R6790",
+        "Opportunities":"High",
+        "Location":"Lobby, Regent Hong Kong, 18 Salisbury Road",
+        "District":"Tsim Sha Tsui",
+        "Cuisines":"French,Western",
+        "Price Range":"$201-400",
+        "Timestamp":"2024-10-04 10:16:18",
+        "Longitude":114.1739512,
+        "Latitude":22.2933788,
+        "Type":"Unique",
+        "Cleaned Restaurant Name":"Qura Bar",
+        "Person":"Evan"
+    },
+    {
+        "Restaurant Name":"Tivoli Ristorante italiano",
+        "Code":"R9203",
+        "Opportunities":"High",
+        "Location":"G\/F, 130 Austin Road",
+        "District":"Jordan",
+        "Cuisines":"Italian",
+        "Price Range":"$201-400",
+        "Timestamp":"2024-10-04 12:41:44",
+        "Longitude":114.1736395,
+        "Latitude":22.3031682,
+        "Type":"Unique",
+        "Cleaned Restaurant Name":"Tivoli Ristorante italiano",
+        "Person":"Kamila"
+    },
+    {
+        "Restaurant Name":"Jang Dok Korean Restaurant",
+        "Code":"R10588",
+        "Opportunities":"High",
+        "Location":"1\/F, Landwide Building, 118 Austin Road",
+        "District":"Jordan",
+        "Cuisines":"Korean",
+        "Price Range":"$101-200",
+        "Timestamp":"2024-10-04 16:03:29",
+        "Longitude":114.1730219,
+        "Latitude":22.3031571,
+        "Type":"Unique",
+        "Cleaned Restaurant Name":"Jang Dok Korean Restaurant",
+        "Person":"Kamila"
     }
 ]
